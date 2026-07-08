@@ -4,9 +4,8 @@ Welcome to my Java practice repository! This repository contains my journey of l
 
 ## Repository Structure
 
-'''text
+```text
 JAVA/
-│
 ├── 01-Basics/
 ├── 02-Classes-and-Objects/
 ├── 03-Constructors/
