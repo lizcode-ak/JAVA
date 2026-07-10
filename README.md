@@ -4,22 +4,7 @@ Welcome to my Java practice repository! This repository contains my journey of l
 
 ## Repository Structure
 
-```text
-JAVA/
-├── 01-Basics/
-├── 02-Classes-and-Objects/
-├── 03-Constructors/
-├── 04-Encapsulation/
-├── 05-Inheritance/
-├── 06-Polymorphism/
-├── 07-Abstraction/
-├── 08-Interfaces/
-├── 09-Exception-Handling/
-├── 10-Collections/
-├── 11-Multithreading/
-├── 12-File-Handling/
-└── README.md
-```
+
 
 ## Topics Covered
 
